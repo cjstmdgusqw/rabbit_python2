@@ -1,11 +1,13 @@
 def solution(d, budget):
     answer = 0
-    for i in sorted(d):
-        print(i)
+    d.sort()
+    for i in d:
+        pass
+        
 
 
-
-print(solution([1,3,2,5,4], 9))
+# ㅠㅠ..
+# print(solution([1,3,2,5,4], 9))
 
 
 
